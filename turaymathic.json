@@ -1,0 +1,91 @@
+[
+    {
+        "userId": 1,
+        "id": "15818",
+        "name": "Musa Turay",
+        "email": "turaymusaa@gmail.com",
+        "website": "http://turaymusa.com",
+        "mobile": "+23279366751",
+        "image": "https://turay15818.github.io/myapi/Musa-Turay.jpg",
+        "description": "Student of Orange Digital Center! A web Developer and Web Master i designed and develop website"
+    },
+    {
+        "userId": 2,
+        "id": "20113",
+        "name": "Ibrahim Daboh",
+        "email": "chocklatedaboh@gmail.com",
+        "website": "http:turaymathic.ml",
+        "mobile": "+23234598216",
+        "image": "https://turay15818.github.io/myapi/Ibrahim-Daboh.jpg",
+        "description": "Studying Graphic Designing Student at Turaymathic Academy"
+    },
+    {
+        "userId": 3,
+        "id": "21306",
+        "name": "Sanunu Barrie",
+        "email": "mohamedsanunubarrie@gmail.com",
+        "website": "http://mohamedsanunubarrie.com",
+        "mobile": "+23273594621",
+        "image": "https://turay15818.github.io/myapi/sanunu.jpeg",
+        "description": "Studying Artificial Intelligence Student at Turaymathic Academy"
+    },
+    {
+        "userId": 4,
+        "id": "24590",
+        "name": "Hamira Veronica Sesay",
+        "email": "sesayhamira@gmail.com",
+        "website": "http://veronica.ml",
+        "mobile": "+23275850097",
+        "image": "https://turay15818.github.io/myapi/hamira.jpeg",
+        "description": "Data Science Student Student at Turaymathic Academy"
+    },
+    {
+        "userId": 5,
+        "id": "56712",
+        "name": "Mohamed Turay",
+        "email": "turaymohamed@gmail.com",
+        "website": "http://nfaturay.ml",
+        "mobile": "+23276304003",
+        "image": "https://turay15818.github.io/myapi/Mohamed-Turay.jpg",
+        "description": "Cyber Security Student at Turaymathic Academy"
+    },
+    {
+        "userId": 6,
+        "id": "19087",
+        "name": "Mohamed Fadil Bah",
+        "email": "mohamefadilbah@gmail.com",
+        "website": "moamedfadil.ocm",
+        "mobile": "+23230319626",
+        "image": "https://turay15818.github.io/myapi/fadil.jpeg",
+        "description": "Machine Learning Student at Turaymathic Academy"
+    },
+    {
+        "userId": 7,
+        "id": "53401",
+        "name": "Miatta Duveh",
+        "email": "miattaduveh@gmail.com",
+        "website": "https://www.duveh.com",
+        "mobile": "+23276156974",
+        "image": "https://turay15818.github.io/myapi/Miatta-Duveh.jpg",
+        "description": "UI/UX Student at Turaymathic Academy"
+    },
+    {
+        "userId": 8,
+        "id": "11908",
+        "name": "Ramadan Barrie",
+        "email": "ramadanbarrie@gmail.com",
+        "website": "https://www.ramadan.com",
+        "mobile": "+23288704659",
+        "image": "https://turay15818.github.io/myapi/ramadan.jpeg",
+        "description": "Fullstack Developer Student at Turaymathic Academy"
+    },
+    {
+        "userId": 9,
+        "id": "23476",
+        "name": "Chief Agibu",
+        "email": "chiefagibu@gmail.com",
+        "website": "https://www.chiefagibu.com",
+        "mobile": "+23279324834",
+        "image": "https://turay15818.github.io/myapi/agibu.jpeg",
+        "description": "Computer Science Student Student at Turaymathic Academy"
+    }]
